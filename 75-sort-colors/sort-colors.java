@@ -5,7 +5,7 @@ class Solution {
         arr[b] = temp;
     }
     public void sortColors(int[] arr) {
-        int low= 0;
+        int low = 0;
         int mid = 0;
         int high = arr.length - 1;
 
